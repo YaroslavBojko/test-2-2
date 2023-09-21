@@ -32,4 +32,6 @@ int main() {
     databaseEntry(database);
     print(database);
 
+    int i = 2 + 2
+
 }
