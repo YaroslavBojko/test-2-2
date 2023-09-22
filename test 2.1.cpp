@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main() {
-    std::cout << "Hello Skillbox" << std::endl;
+    std::cout << "Hello Skillbox Yaroslav " << std::endl;
 }
 
